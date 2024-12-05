@@ -31,3 +31,10 @@ git clone <repository-link>
 navigate to the repository
 
 cd modern-char
+
+## Screenshots
+
+Here’s a preview of the Modern Char project:
+
+![Modern Char Screenshot](modern%20chair/Screenshot2.png)
+
