@@ -38,3 +38,7 @@ Here’s a preview of the Modern Char project:
 
 ![Modern Char Screenshot](modern%20chair/Screenshot2.png)
 
+
+![Modern Char Screenshot](modern%20chair/Screenshot2.png)
+
+
